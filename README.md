@@ -1,2 +1,2 @@
-# web-app-sandbox
-Created with CodeSandbox
+# GoodFood App
+A web app made using ReactJs and css.
